@@ -1,7 +1,7 @@
 # MetalTrans
 MetalTrans: The critical importance of accurately predicting mutations in protein-metal binding sites for advancing drug discovery and enhancing disease diagnostic processes cannot be overstated.  In response to this imperative, MetalTrans emerges as a pioneering predictor for disease-associated mutations in protein-metal binding sites.  Its core innovation lies in the seamless integration of multi-feature splicing with the Transformer framework, a strategy that ensures exhaustive feature extraction.  Central to MetalTrans's effectiveness is its deep feature combination strategy, which adeptly merges evolutionary scale modeling (ESM) amino acid embeddings with ProtTrans embeddings, thus shedding light on the biochemical properties of proteins.  Employing the Transformer component, MetalTrans leverages self-attention mechanisms to delve into higher-level, representations, a technique that not only enriches the feature set but also sidesteps the common pitfall of overestimation linked to protein sequence-based predictions.
 # MetalTrans Prediction Performance Comparison
-![image](/pic/arial/MTM_mergeCurve.png)
+![image](/pic/arial/MTM_MergeCurve.png)
 # Install Dependencies
 Python ver. == 3.8  
 For others, run the following command:  
