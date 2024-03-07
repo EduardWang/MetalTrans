@@ -6,6 +6,8 @@ MetalTrans: The critical importance of accurately predicting mutations in protei
 Python ver. == 3.8  
 For others, run the following command:  
 ```Python
+conda install tensorflow-gpu==2.5.0
+pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html
 pip install -r requirements.txt
 ```
 # Run
